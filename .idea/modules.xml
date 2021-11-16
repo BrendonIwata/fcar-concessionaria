@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fcar-concessionaria.iml" filepath="$PROJECT_DIR$/.idea/fcar-concessionaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcar-configserver/fcar-configserver.iml" filepath="$PROJECT_DIR$/fcar-configserver/fcar-configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcar-dominio/fcar-dominio.iml" filepath="$PROJECT_DIR$/fcar-dominio/fcar-dominio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcar-eurekaserver/fcar-eurekaserver.iml" filepath="$PROJECT_DIR$/fcar-eurekaserver/fcar-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcar-fornecedores/fcar-fornecedores.iml" filepath="$PROJECT_DIR$/fcar-fornecedores/fcar-fornecedores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcar-pedido/fcar-pedido.iml" filepath="$PROJECT_DIR$/fcar-pedido/fcar-pedido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcar-transporte/fcar-transaporte.iml" filepath="$PROJECT_DIR$/fcar-transporte/fcar-transaporte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcar-transaporte/fcar-transporte.iml" filepath="$PROJECT_DIR$/fcar-transaporte/fcar-transporte.iml" />
+    </modules>
+  </component>
+</project>

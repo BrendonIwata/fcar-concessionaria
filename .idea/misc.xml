@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/fcar-eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/fcar-configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/fcar-pedido/pom.xml" />
+        <option value="$PROJECT_DIR$/fcar-fornecedores/pom.xml" />
+        <option value="$PROJECT_DIR$/fcar-transaporte/pom.xml" />
+        <option value="$PROJECT_DIR$/fcar-transporte/pom.xml" />
+        <option value="$PROJECT_DIR$/fcar-dominio/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

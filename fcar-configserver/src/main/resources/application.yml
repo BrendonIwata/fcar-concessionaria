@@ -1,0 +1,13 @@
+server:
+  port: 8888
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/BrendonIwata/configserverfiles
+          search-paths:
+            - fornecedores
+            - pedidos
+            - transporte
